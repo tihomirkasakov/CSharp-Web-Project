@@ -1,0 +1,9 @@
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\bin\Debug\netcoreapp2.1\IMMDB.Models.deps.json
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\bin\Debug\netcoreapp2.1\IMMDB.Models.dll
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\bin\Debug\netcoreapp2.1\IMMDB.Models.pdb
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\obj\Debug\netcoreapp2.1\IMMDB.Models.csprojAssemblyReference.cache
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\obj\Debug\netcoreapp2.1\IMMDB.Models.csproj.CoreCompileInputs.cache
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\obj\Debug\netcoreapp2.1\IMMDB.Models.AssemblyInfoInputs.cache
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\obj\Debug\netcoreapp2.1\IMMDB.Models.AssemblyInfo.cs
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\obj\Debug\netcoreapp2.1\IMMDB.Models.dll
+C:\Users\Tihomir\source\repos\IMMDB\IMMDB.Models\obj\Debug\netcoreapp2.1\IMMDB.Models.pdb

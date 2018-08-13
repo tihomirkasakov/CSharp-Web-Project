@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMMDB.Web", "IMMDB.Web\IMMDB.Web.csproj", "{8547A57C-D537-44B0-B690-F19AF327EED7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMMDB.Models", "IMMDB.Models\IMMDB.Models.csproj", "{F1A097B5-3BD8-4FD3-B240-88191D7AD36F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IMMDB.Data", "IMMDB.Data\IMMDB.Data.csproj", "{2796A690-4E4D-4C07-AE45-BFA5FA6A1ECF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8547A57C-D537-44B0-B690-F19AF327EED7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8547A57C-D537-44B0-B690-F19AF327EED7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8547A57C-D537-44B0-B690-F19AF327EED7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8547A57C-D537-44B0-B690-F19AF327EED7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1A097B5-3BD8-4FD3-B240-88191D7AD36F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1A097B5-3BD8-4FD3-B240-88191D7AD36F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1A097B5-3BD8-4FD3-B240-88191D7AD36F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1A097B5-3BD8-4FD3-B240-88191D7AD36F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2796A690-4E4D-4C07-AE45-BFA5FA6A1ECF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2796A690-4E4D-4C07-AE45-BFA5FA6A1ECF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2796A690-4E4D-4C07-AE45-BFA5FA6A1ECF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2796A690-4E4D-4C07-AE45-BFA5FA6A1ECF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F4C2E595-2889-4DE9-944B-B2039B6A289D}
+	EndGlobalSection
+EndGlobal
